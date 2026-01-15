@@ -1,0 +1,9 @@
+{
+  "name": "Trevelin AI",
+  "description": "A professional, futuristic AI suite powered by Gemini 3 and Veo. Features conversational voice, advanced media generation, and intelligent reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
